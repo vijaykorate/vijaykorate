@@ -70,7 +70,7 @@ Sharing knowledge through tutorials, blogging about frontend practices, and cont
 
 ---
 
-## 🖼️ Banner
+
 
 <p>
    <img src="./vijaybanner.png" alt="Vijay Korate Banner" width="100%" />
