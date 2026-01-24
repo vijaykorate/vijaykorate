@@ -73,7 +73,7 @@ Sharing knowledge through tutorials, blogging about frontend practices, and cont
 ## 🖼️ Banner
 
 <p>
-  <img src="https://images.unsplash.com/photo-1521790361674-6c6f7b21d4e4?auto=format&fit=crop&w=1200&q=80" alt="Web Developer Banner" width="100%" />
+   <img src="./vijay banner.png" alt="Vijay Korate Banner" width="100%" />
 </p>
 
 ---
