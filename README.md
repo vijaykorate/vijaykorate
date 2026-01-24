@@ -1,84 +1,18 @@
-<h1 align="center"> Vijay Korate</h1>
+# 💫 About Me:
+Vijay Korate<br>Aspiring Web Developer | React.js & API Integration | Clean Code Enthusiast
 
-<h3 align="center">Aspiring Web Developer | React.js & API Integration | Clean Code Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijaykorate&label=Profile%20views&color=0e75b6&style=flat" alt="vijaykorate" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vijay-korate-a40195231/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijaykorate18@gmail.com) 
 
-<hr>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vijaykorate&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vijaykorate&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykorate&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2>💫 About Me</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=vijaykorate&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<table>
-  <tr>
-    <!-- What I Do Column -->
-    <td valign="top" width="50%">
-      <h3>What I Do</h3>
-      <ul>
-        <li>🌐 <strong>Frontend Development:</strong> React.js, HTML5, CSS3, JavaScript</li>
-        <li>⚡ <strong>API Integration:</strong> REST APIs, fetch & axios</li>
-        <li>📝 <strong>Clean Code & Best Practices:</strong> Reusable components & scalable structures</li>
-      </ul>
-    </td>
-
-   <td valign="top" width="50%">
-  <h3>Quick Links</h3>
-  <ul>
-    <li><a href="#">Portfolio</a></li>
-    <li><a href="#">Resume</a></li>
-    <li><a href="https://www.linkedin.com/in/vijay-korate-a40195231/">LinkedIn</a></li>
-    <li><a href="https://github.com/vijaykorate">GitHub</a></li>
-    <li><a href="mailto:vijaykorate18@gmail.com">Email</a></li>
-  </ul>
-</td>
-
-  </tr>
-</table>
-
-<h3>🖼️ Banner</h3>
-<p>
-  <img src="https://images.unsplash.com/photo-1521790361674-6c6f7b21d4e4?auto=format&fit=crop&w=1200&q=80" alt="Web Developer Banner" width="100%" />
-</p>
-
-<h3>📚 Learning / Important</h3>
-<ul>
-  <li>Constantly improving <strong>React.js & Next.js skills</strong></li>
-  <li>Exploring <strong>modern UI/UX practices</strong></li>
-  <li>Understanding <strong>full-stack development</strong> with Node.js & Express</li>
-  <li>Practicing <strong>problem-solving & algorithms</strong> in JavaScript</li>
-</ul>
-
-<h3>📂 Featured Projects</h3>
-<ul>
-  <li><strong>Eat-N-Split:</strong> Split bills among friends using React.js</li>
-  <li><strong>CRUD App:</strong> Full-stack project with REST API integration</li>
-  <li><strong>React Practice Projects:</strong> Component-based exercises to master React</li>
-</ul>
-
-<h3>⚡ Tech Stack</h3>
-<h4>Frontend</h4>
-<p>
-  React.js | Next.js | JavaScript | HTML5 | CSS3 | Tailwind | Bootstrap
-</p>
-<h4>Backend / APIs</h4>
-<p>
-  Node.js | Express.js | REST APIs | Postman
-</p>
-<h4>Database</h4>
-<p>
-  SQL Server | MongoDB
-</p>
-<h4>Tools & Platforms</h4>
-<p>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
-
-<h3>🤝 Connect With Me</h3>
-<p>
-  <a href="https://www.linkedin.com/in/vijay-korate-a40195231/" target="_blank">LinkedIn</a> • 
-  <a href="https://github.com/vijaykorate" target="_blank">GitHub</a> • 
-  <a href="mailto:vijaykorate18@gmail.com">Email</a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
