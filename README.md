@@ -13,6 +13,9 @@
     Aspiring Web Developer | React.js & API Integration | Clean Code Enthusiast
   </span>
 </p>
+<p>
+   <img src="./vijaybanner.png" alt="Vijay Korate Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vijaykorate&label=Profile%20views&color=0e75b6&style=flat" alt="vijaykorate" />
@@ -72,9 +75,7 @@ Sharing knowledge through tutorials, blogging about frontend practices, and cont
 
 
 
-<p>
-   <img src="./vijaybanner.png" alt="Vijay Korate Banner" width="100%" />
-</p>
+
 
 ---
 
