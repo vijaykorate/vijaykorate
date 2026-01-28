@@ -56,10 +56,10 @@ Sharing knowledge through tutorials, blogging about frontend practices, and cont
 
 <p>
   <a href="https://personal-portfolio18.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
   </a>
   <a href="https://www.linkedin.com/in/vijay-korate-a40195231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -71,6 +71,7 @@ Sharing knowledge through tutorials, blogging about frontend practices, and cont
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 
 ---
 
