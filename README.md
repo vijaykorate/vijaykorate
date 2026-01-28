@@ -56,7 +56,7 @@ Sharing knowledge through tutorials, blogging about frontend practices, and cont
 
 <p>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
+    <img src="https://personal-portfolio18.netlify.app/" alt="Portfolio" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Resume" />
