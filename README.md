@@ -55,7 +55,7 @@ Sharing knowledge through tutorials, blogging about frontend practices, and cont
 ## 🔗 Quick Links
 
 <p>
-  <a href="https://personal-portfolio18.netlify.app/" target="_blank">
+  <a href="https://kvijayportfolio.netlify.app//" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="#" target="_blank">
