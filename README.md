@@ -47,9 +47,6 @@ Connecting frontends to REST APIs, managing asynchronous workflows, and ensuring
 🎨 **UI/UX Enthusiast**  
 Designing clean, accessible, and user-friendly interfaces with modern design principles.
 
-📝 **Content & Learning Advocate**  
-Sharing knowledge through tutorials, blogging about frontend practices, and contributing to open-source projects.
-
 ---
 
 ## 🔗 Quick Links
