@@ -78,7 +78,7 @@ Designing clean, accessible, and user-friendly interfaces with modern design pri
 - **CRUD App** – Full-stack application with REST API integration  
 - **WorldWise** – Travel tracking app built with React.js  
 - **Travel List** – Packing list manager using React.js  
-- **React Practice Projects** – Component-based exercises to master React  
+
 
 ---
 
